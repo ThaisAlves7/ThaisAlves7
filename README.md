@@ -1,7 +1,7 @@
 ### Olá, meu nome é Thais Alves  e seja muito bem vindo ao meu Perfil do Github 👀
 
 - 🔭 Trabalho atualmente como Dev RPA
-- 🌱 Estudando Desenvolvimento Web e Mobile
+- 🌱 Estudando Arquitetura de Software e DevOps
 - 🏳️‍🌈 ela/dela 
   &nbsp;
 
