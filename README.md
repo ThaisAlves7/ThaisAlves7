@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá 👋🏽 ! Meu nome é Thais, agradeço por visitar meu perfil, logo abaixo um pouco sobre mim.<br><br>🔭 Trabalho atualmente como DEV RPA<br>🌱 Sou estudante de Ciências da Computação<br>👩🏽‍💻 Tenho conhecimento sobre desenvolvimento WEB<br>🔒 Tenho também uma base de Testes TDD e DDD<br>⚙️ Iniciando especialização em DevOps<br>🏳️‍🌈 Ela/ Dela<br><br>Sinta-se à vontade para entrar em contato 💬.
+Olá 👋🏽 ! Meu nome é Thais, agradeço por visitar meu perfil, logo abaixo um pouco sobre mim.<br><br>🔭 Trabalho atualmente como DEV RPA<br>🌱 Sou estudante de Ciências da Computação<br>👩🏽‍💻 Tenho conhecimento sobre desenvolvimento WEB<br>🔒 Tenho também uma base de conhecimento em Testes TDD e DDD<br>⚙️ Iniciando especialização em DevOps<br>🏳️‍🌈 Ela/ Dela<br><br>Sinta-se à vontade para entrar em contato 💬.
 
 
 ## 🌐 Socials:
