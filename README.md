@@ -1,21 +1,68 @@
-# 💫 Sobre Mim:
-Olá 👋🏽 ! Meu nome é Thais, agradeço por visitar meu perfil, logo abaixo um pouco sobre mim.<br><br>🔭 Trabalho atualmente como DEV RPA<br>🌱 Sou estudante de Ciências da Computação<br>👩🏽‍💻 Tenho conhecimento sobre desenvolvimento WEB<br>🔒 Tenho também uma base de conhecimento em Testes TDD e DDD<br>⚙️ Iniciando especialização em DevOps<br>🏳️‍🌈 Ela/ Dela<br><br>Sinta-se à vontade para entrar em contato 💬.
+<p align="center">
+  <img src="/mario.gif" width="100%" alt="Banner de apresentação" />
+</p>
 
+ Thais Alves Pereira
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tha.alves7) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/thais-alves7/) 
+**`Desenvolvedora Back-End | Python | Java | APIs | Docker | Spring Boot`**
 
-# 💻 Tecnologias:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-# 📊 GitHub Status:
-![](https://github-readme-stats.vercel.app/api?username=ThaisAlves7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ThaisAlves7&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThaisAlves7&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+Desenvolvedora de Back-End com experiência em automação corporativa, integração de sistemas, atuando na construção de soluções que conectam processos, dados e aplicações para aumentar a eficiência operacional.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+Meu foco está na criação de sistemas backend escaláveis, na estruturação de arquiteturas limpas e de fácil manutenção, na integração de serviços de terceiros e na melhoria da confiabilidade dos sistemas por meio de conteinerização, arquitetura de software, sistemas distribuídos, computação em nuvem.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ThaisAlves7&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 Projetos em Destaque
+
+### 🔹 ETL de Planilhas de Vendas
+
+Pipeline que lê planilhas de vendas sujas, corrige o que dá para corrigir, rejeita com motivo o que não dá e carrega o resultado no PostgreSQL. Um comando roda tudo, e reprocessar o mesmo arquivo não duplica linhas.
+
+Principais aspectos do projeto:
+
+- Qualidade dos dados e validação das regras do contrato
+- Idempotência: Controlando o processamento sem duplicidade
+- Organização em camada de serviços
+- Ambiente conteinerizado com Docker
+- Estrutura preparada para CI/CD
+
+👉 [Visualizar Projeto](https://github.com/ThaisAlves7/etl-planilhas)
+
+---
+
+## 🛠 Tecnologias
+
+**Back-End**
+
+- Python
+- PostgreSQL 16
+- Pandas
+- Pandera
+- Pydantic
+- SQLAlchemy 2
+- psycopg 3
+- Typer
+- Pytest
+- Faker
+
+**DevOps e Infraestrutura**
+
+- Docker
+- GitHub Actions
+
+---
+
+## 🧠 Princípios de Engenharia
+
+- Mentalidade orientada à Arquitetura Limpa
+- Princípios SOLID
+- Código de fácil manutenção e testável
+- Melhoria contínua
+- Separação de Responsabilidades
+- Padrões de Projeto
+
+## 🌍 Oportunidades de Interesse
+
+Vagas para Engenheira Back-End em ambientes onde eu possa contribuir com minhas habilidades, compartilhar conhecimentos e colaborar com a equipe no desenvolvimento de sistemas de forma escalável e prontos para produção.
+
+📫 Vamos nos conectar pelo [LinkedIn](https://www.linkedin.com/in/thais-alves7/)
