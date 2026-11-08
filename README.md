@@ -1,10 +1,6 @@
 <div align="center">
-  <img width="100" height="100" src="icon-backend.png" alt="laptop-coding"/>
   <h1>Thais Alves Pereira</h1>
   <h3>Desenvolvedora Back-End | Python | Java | APIs | Docker | Spring Boot</h3>
-
-  [![LinkedIn](https://shields.io)](https://www.linkedin.com/in/thais-alves7/)
-  
   <img src="mario.gif" width="60%" alt="Banner de apresentação" />
 </div>
 
